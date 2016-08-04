@@ -1,0 +1,35 @@
+_repo: The-Light-of-the-Western-Stars_1095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Zane
+    - Gray, Pearl Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: From the moment Madeling Hammond steps off the train in New Mexico, she
+  walks straight into trouble. Almost tricked into marriage by a handsome, drunken
+  cowboy, Madeline quickly realizes whe has a lot to learn if she is going to survive
+  life on her brother's ranch in the southwestern territory. Eastern girl settles
+  down as westerner, buys and restocks the largest ranch in the country.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1997-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Women pioneers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New Mexico -- Fiction'
+- GITenberg
+title: The Light of the Western Stars
+url: http://www.gutenberg.org/ebooks/1095

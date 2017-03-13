@@ -1,5 +1,8 @@
 _repo: The-Light-of-the-Western-Stars_1095
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -16,6 +19,8 @@ description: From the moment Madeling Hammond steps off the train in New Mexico,
   cowboy, Madeline quickly realizes whe has a lot to learn if she is going to survive
   life on her brother's ranch in the southwestern territory. Eastern girl settles
   down as westerner, buys and restocks the largest ranch in the country.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1095#The-Light-of-the-Western-Stars
 gutenberg_bookshelf: Western
 gutenberg_issued: '1997-11-01'
 gutenberg_type: Text
